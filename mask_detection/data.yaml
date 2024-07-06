@@ -1,0 +1,8 @@
+nc: 2
+names:
+- No Mask
+- Mask
+
+
+train: ./yolo/train/images
+val: ./yolo/val/images

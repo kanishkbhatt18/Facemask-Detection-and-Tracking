@@ -1,0 +1,4 @@
+ultralytics 
+filterpy
+opencv-python
+tk
